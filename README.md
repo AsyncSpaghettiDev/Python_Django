@@ -1,4 +1,4 @@
 # Python_Django
   
-**Python Essentials**
+**Python Essentials**  
 [OOP](./OOP.ipynb) How is implemented OOP in python  
