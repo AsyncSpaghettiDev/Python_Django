@@ -6,3 +6,4 @@
 [NoteBook #03](./Keywords.ipynb) Keywords from python  
 [NoteBook #04](./Tuples.ipynb) How tuples works in python  
 [NoteBook #05](./Modules.ipynb) How to import modules in python  
+[NoteBook #05](./DirectoryFileManagement.ipynb) Using os module  
